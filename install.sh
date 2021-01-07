@@ -18,6 +18,7 @@ pipinstall miki
 gitclone gram-demolition
 gitclone nats
 gitclone shiba
+
 cd shiba
 ./install.sh
 cd ..
