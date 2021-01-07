@@ -15,9 +15,11 @@ pipinstall elemental-sight
 pipinstall mist-dispersion
 pipinstall miki
 
-gitclone gram-demolition
-gitclone nats
-gitclone shiba
+gitclone gram-demolition &
+gitclone nats &
+gitclone shiba &
+
+wait
 
 cd shiba
 ./install.sh
