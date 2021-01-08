@@ -24,3 +24,6 @@ wait
 cd shiba
 ./install.sh
 cd ..
+
+echo add below in .bash_profile
+echo export PATH=\$PATH:`pwd`/shiba/bin
