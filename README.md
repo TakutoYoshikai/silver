@@ -15,7 +15,7 @@ silver includes below
 - [miki](https://github.com/TakutoYoshikai/miki)
   - The file hider into Microsoft Office file.
 - [gram-demolition](https://github.com/TakutoYoshikai/gram-demolition)
-  - The process killer
+  - The auto process killer
 - [nats](https://github.com/TakutoYoshikai/nats)
   - The executable binary steganography
 - [strange](https://github.com/TakutoYoshikai/strange)
