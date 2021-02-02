@@ -9,11 +9,17 @@ function pipinstall() {
   pip3 install git+https://github.com/TakutoYoshikai/$1.git
 }
 
+function npminstall() {
+  npm install -g TakutoYoshikai/$1
+}
+
 pipinstall angie-sirius
 pipinstall phalanx
 pipinstall elemental-sight
 pipinstall mist-dispersion
 pipinstall miki
+
+npminstall strange
 
 gitclone gram-demolition &
 gitclone nats &
