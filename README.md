@@ -16,6 +16,8 @@ An install script of Takuto Yoshikai's hack tools.
   - The safe password manager that don't communicate to any other server.
 - [elemental-sight](https://github.com/TakutoYoshikai/elemental-sight)
   - The git history extracter
+- [trident](https://github.com/TakutoYoshikai/trident)
+  - The random string searcher
 - [mist-dispersion](https://github.com/TakutoYoshikai/mist-dispersion)
   - The file data disperser
 - [miki](https://github.com/TakutoYoshikai/miki)
