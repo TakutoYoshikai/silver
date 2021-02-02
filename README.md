@@ -1,7 +1,7 @@
 # silver
 An install script of Takuto Yoshikai's hack tools.
 
-silver includes below
+### Includes
 - [shiba](https://github.com/TakutoYoshikai/shiba)
   - The API token finder in git history
 - [angie-sirius](https://github.com/TakutoYoshikai/angie-sirius)
