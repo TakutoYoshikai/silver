@@ -1,5 +1,5 @@
 # silver
-An install script of Takuto Yoshikai's hack tools.
+A set of Takuto Yoshikai's hack tools.
 
 ### Includes
 - [shiba](https://github.com/TakutoYoshikai/shiba)
