@@ -6,6 +6,12 @@ An install script of Takuto Yoshikai's hack tools.
   - The API token finder in git history
 - [angie-sirius](https://github.com/TakutoYoshikai/angie-sirius)
   - The powerful steganography
+- [lina](https://github.com/TakutoYoshikai/lina)
+  - The steganography to hide data into multiple images.
+- [parade](https://github.com/TakutoYoshikai/parade)
+  - The XOR encrypter with image
+- [sirius](https://github.com/TakutoYoshikai/sirius)
+  - The XOR encrypter with any file
 - [phalanx](https://github.com/TakutoYoshikai/phalanx)
   - The safe password manager that don't communicate to any other server.
 - [elemental-sight](https://github.com/TakutoYoshikai/elemental-sight)
