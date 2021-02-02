@@ -30,7 +30,7 @@ An install script of Takuto Yoshikai's hack tools.
 ### Requirements
 * Ubuntu 20.10
 * Python3
-* Node.js
+* Node.js v14.6.0
 
 ### install
 
