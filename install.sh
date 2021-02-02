@@ -13,11 +13,13 @@ function npminstall() {
   npm install -g TakutoYoshikai/$1
 }
 
-pipinstall angie-sirius
-pipinstall phalanx
-pipinstall elemental-sight
-pipinstall mist-dispersion
-pipinstall miki
+pipinstall angie-sirius &
+pipinstall phalanx &
+pipinstall elemental-sight &
+pipinstall mist-dispersion &
+pipinstall miki &
+
+wait
 
 npminstall strange
 
