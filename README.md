@@ -28,6 +28,8 @@ A set of Takuto Yoshikai's hack tools.
   - The executable binary steganography
 - [strange](https://github.com/TakutoYoshikai/strange)
   - The cryptography address type checker.
+- [usbenc](https://github.com/TakutoYoshikai/usbenc)
+  - The encryptor by any USB device.
   
 ### Requirements
 * Ubuntu 20.10
