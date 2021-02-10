@@ -22,6 +22,7 @@ pipinstall miki &
 wait
 
 npminstall strange
+npminstall usbenc
 
 gitclone gram-demolition &
 gitclone nats &
