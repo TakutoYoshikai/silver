@@ -10,6 +10,7 @@ pip3 uninstall -y miki
 
 npm uninstall -g strange
 npm uninstall -g usbenc
+npm uninstall -g onmem
 
 rm -rf gram-demolition
 rm -rf nats
