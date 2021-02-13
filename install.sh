@@ -23,6 +23,7 @@ wait
 
 npminstall strange
 npminstall usbenc
+npminstall onmem
 
 gitclone gram-demolition &
 gitclone nats &
