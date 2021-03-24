@@ -28,7 +28,11 @@ A set of Takuto Yoshikai's hack tools.
 - [nats](https://github.com/TakutoYoshikai/nats)
   - The executable binary steganography
 - [strange](https://github.com/TakutoYoshikai/strange)
-  - The cryptography address type checker.
+  - The cryptography address type detector.
+- [usbenc](https://github.com/TakutoYoshikai/usbenc)
+  - The encryptor by any USB device.
+- [onmem](https://github.com/TakutoYoshikai/onmem)
+  - The storage on memory.
   
 ### Requirements
 * Ubuntu 20.10
