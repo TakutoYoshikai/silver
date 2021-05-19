@@ -33,11 +33,15 @@ A set of Takuto Yoshikai's hack tools.
   - The encryptor by any USB device.
 - [onmem](https://github.com/TakutoYoshikai/onmem)
   - The storage on memory.
+- [mkcapsule](https://github.com/TakutoYoshikai/mkcapsule)
+  - The program for managing private keys safely.
   
 ### Requirements
 * Ubuntu 20.10
 * Python3
 * Node.js v14.6.0
+* Rust
+* Cargo
 
 ### install
 

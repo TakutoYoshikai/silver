@@ -13,6 +13,10 @@ function npminstall() {
   npm install -g TakutoYoshikai/$1
 }
 
+function cargoinstall() {
+  cargo install --git https://github.com/TakutoYoshikai/$1.git
+}
+
 pipinstall angie-sirius &
 pipinstall phalanx &
 pipinstall elemental-sight &
@@ -25,9 +29,11 @@ npminstall strange
 npminstall usbenc
 npminstall onmem
 
+cargoinstall nats
+
 gitclone gram-demolition &
-gitclone nats &
 gitclone shiba &
+gitclone mkcapsule &
 
 wait
 
@@ -35,5 +41,10 @@ cd shiba
 ./install.sh
 cd ..
 
+cd mkcapsule
+./install.sh
+cd ..
+
 echo add below in .bash_profile
 echo export PATH=\$PATH:`pwd`/shiba/bin
+echo export PATH=\$PATH:`pwd`/mkcapsule/bin
