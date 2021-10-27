@@ -35,6 +35,7 @@ gitclone gram-demolition &
 gitclone shiba &
 gitclone mkcapsule &
 gitclone mktcapsule &
+gitclone mkloveletter &
 
 wait
 
@@ -47,6 +48,10 @@ cd mkcapsule
 cd ..
 
 cd mktcapsule
+./install.sh
+cd ..
+
+cd mkloveletter
 ./install.sh
 cd ..
 
