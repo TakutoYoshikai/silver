@@ -17,4 +17,5 @@ rm -rf nats
 rm -rf shiba
 rm -rf mkcapsule
 rm -rf mktcapsule
+rm -rf mkloveletter
 

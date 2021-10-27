@@ -37,6 +37,8 @@ A set of Takuto Yoshikai's hack tools.
   - The program for managing private keys safely.
 - [mktcapsule](https://github.com/TakutoYoshikai/mktcapsule)
   - The program to lock secret files until given time..
+- [mkloveletter](https://github.com/TakutoYoshikai/mkloveletter)
+  - The program to make loveletter files that exports secret file after given time.
   
 ### Requirements
 * Ubuntu 20.10
