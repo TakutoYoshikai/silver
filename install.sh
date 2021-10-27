@@ -34,6 +34,7 @@ cargoinstall nats
 gitclone gram-demolition &
 gitclone shiba &
 gitclone mkcapsule &
+gitclone mktcapsule &
 
 wait
 
@@ -45,6 +46,11 @@ cd mkcapsule
 ./install.sh
 cd ..
 
+cd mktcapsule
+./install.sh
+cd ..
+
 echo add below in .bash_profile
 echo export PATH=\$PATH:`pwd`/shiba/bin
 echo export PATH=\$PATH:`pwd`/mkcapsule/bin
+echo export PATH=\$PATH:`pwd`/mktcapsule/bin

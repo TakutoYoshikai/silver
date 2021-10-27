@@ -15,4 +15,6 @@ npm uninstall -g onmem
 rm -rf gram-demolition
 rm -rf nats
 rm -rf shiba
+rm -rf mkcapsule
+rm -rf mktcapsule
 
