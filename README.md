@@ -35,6 +35,8 @@ A set of Takuto Yoshikai's hack tools.
   - The storage on memory.
 - [mkcapsule](https://github.com/TakutoYoshikai/mkcapsule)
   - The program for managing private keys safely.
+- [mktcapsule](https://github.com/TakutoYoshikai/mktcapsule)
+  - The program to lock secret files until given time..
   
 ### Requirements
 * Ubuntu 20.10
