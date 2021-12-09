@@ -22,6 +22,7 @@ pipinstall phalanx &
 pipinstall elemental-sight &
 pipinstall mist-dispersion &
 pipinstall miki &
+pipinstall yakumo &
 
 wait
 

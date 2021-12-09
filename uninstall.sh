@@ -7,6 +7,7 @@ pip3 uninstall -y phalanx
 pip3 uninstall -y esight
 pip3 uninstall -y mist-dispersion
 pip3 uninstall -y miki
+pip3 uninstall -y yakumo
 
 npm uninstall -g strange
 npm uninstall -g usbenc
