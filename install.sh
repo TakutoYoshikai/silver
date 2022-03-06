@@ -29,6 +29,7 @@ wait
 npminstall strange
 npminstall usbenc
 npminstall onmem
+npminstall severus
 
 cargoinstall nats
 

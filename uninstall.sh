@@ -12,6 +12,7 @@ pip3 uninstall -y yakumo
 npm uninstall -g strange
 npm uninstall -g usbenc
 npm uninstall -g onmem
+npm uninstall -g severus
 
 rm -rf gram-demolition
 rm -rf nats

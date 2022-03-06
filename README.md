@@ -41,6 +41,8 @@ A set of Takuto Yoshikai's hack tools.
   - The program to make loveletter files that exports secret file after given time.
 - [yakumo](https://github.com/TakutoYoshikai/yakumo)
   - yakumo is a steganography tool. yakumo can save secret data into given photo directory.
+- [severus](https://github.com/TakutoYoshikai/severus)
+  - severus is a tool for encryption data and saving the encrypted data into P2P network.
 
  
 ### Requirements
